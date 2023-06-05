@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:49:08 PM On 04/03/2022
+
+Output: PCBNG P&P
+Type  : Pick Place
+From  : Variant [Build_Alt] of PCB Document [Main_PCB.PcbDoc]
+   Generated File[Pick Place for Main_PCB(Build_Alt).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:49:10 PM On 04/03/2022

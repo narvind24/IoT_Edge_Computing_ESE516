@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\MS Applications\UPenn Spring 2022\ESE 516\Altium\ESE516_Starter_PCB-main\ESE516_Starter_PCB-main\Cats_and_Dogs_Schematics_ESE516-ToABFinal\Main_PCB.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
